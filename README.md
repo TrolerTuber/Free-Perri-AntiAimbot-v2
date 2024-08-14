@@ -1,3 +1,3 @@
-Ensure el script en la parte inferior  de todos los scripts en server.cfg 
+Ensure script at the bottom of all scripts in server.cfg
 
 Discord support: https://discord.gg/nqY4QNrXv3
